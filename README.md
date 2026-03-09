@@ -49,6 +49,3 @@ python user/app.py
 
 
 ---
-
-Let me know if you want me to add this to your repo via a `README.md` file or need help pushing it with Git.
-
